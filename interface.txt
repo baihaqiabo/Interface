@@ -1,0 +1,7 @@
+1.Buktikan bahwa kelas abstrak boleh tidak mengimplement semua method abstrak. Boleh tapi pada main program tidak dapat di instansiasi.
+
+2.Buktikan variable pada interface adalah variable static dan lakukan pemanggilan variable kelas utama.
+
+3.Buktikan semua interface dapat meng-extend banyak interface.
+
+4.Buktikan semua kelas bisa mengimplement banyak interface.
